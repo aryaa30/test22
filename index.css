@@ -1283,8 +1283,8 @@ h6:hover {
     }
     .main_1 nav {
         width: 365px;
-        padding-right: 35px;
-        border:2px solid red;
+        padding-right: 25px;
+        border:2px solid blue;
     }
 
     .main_1 .bars {
